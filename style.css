@@ -7,7 +7,10 @@ h1 {
   margin-left: 20px;
   size: 48px;
 }
-p1 {
+h2 {
+  color:#FFFFFF
+}
+p {
     color:#FFFFFF;
     text-align: center;
     size: 12px;
